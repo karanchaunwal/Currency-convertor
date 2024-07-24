@@ -11,7 +11,7 @@ const F=document.querySelector("#s1");
 const contry1=document.querySelector("#f");
 const T=document.querySelector("#s2");
 const contry2=document.querySelector("#t");
-
+//
 
 
 
